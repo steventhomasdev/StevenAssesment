@@ -196,6 +196,7 @@ form select {
 
   .options {
     grid-template-columns: 1fr;
+    gap: 5px;
   }
 
   .option-button {
@@ -223,5 +224,9 @@ form select {
 
   .buy-miles{
     width: 100%;
+  }
+
+  .payment-details{
+    margin-top: 20px;
   }
 }
