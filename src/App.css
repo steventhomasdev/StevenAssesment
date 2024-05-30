@@ -190,6 +190,10 @@ form select {
     width: 100%;
   }
 
+  .left-content{
+    order: 1;
+  }
+
   .options {
     grid-template-columns: 1fr;
   }
